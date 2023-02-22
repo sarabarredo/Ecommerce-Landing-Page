@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Ecommerce-Landing-Page/static/js/main.e65c9881.js",
-    "index.html": "/Ecommerce-Landing-Page/index.html",
-    "main.e65c9881.js.map": "/Ecommerce-Landing-Page/static/js/main.e65c9881.js.map"
+    "main.js": "/ecommerce-landing-page/static/js/main.0c3e00b4.js",
+    "index.html": "/ecommerce-landing-page/index.html",
+    "main.0c3e00b4.js.map": "/ecommerce-landing-page/static/js/main.0c3e00b4.js.map"
   },
   "entrypoints": [
-    "static/js/main.e65c9881.js"
+    "static/js/main.0c3e00b4.js"
   ]
 }
